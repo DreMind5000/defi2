@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3effe839.chunk.css",
+    "main.js": "./static/js/main.6e3a2f16.chunk.js",
+    "main.js.map": "./static/js/main.6e3a2f16.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.43c7aded.js",
+    "runtime-main.js.map": "./static/js/runtime-main.43c7aded.js.map",
+    "static/css/2.a6a636a0.chunk.css": "./static/css/2.a6a636a0.chunk.css",
+    "static/js/2.e4d88875.chunk.js": "./static/js/2.e4d88875.chunk.js",
+    "static/js/2.e4d88875.chunk.js.map": "./static/js/2.e4d88875.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.029cd89f2c0663474425dc8daadb7cd1.js": "./precache-manifest.029cd89f2c0663474425dc8daadb7cd1.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.a6a636a0.chunk.css.map": "./static/css/2.a6a636a0.chunk.css.map",
+    "static/css/main.3effe839.chunk.css.map": "./static/css/main.3effe839.chunk.css.map",
+    "static/js/2.e4d88875.chunk.js.LICENSE.txt": "./static/js/2.e4d88875.chunk.js.LICENSE.txt",
+    "static/media/Binance-Icon-Logo.wine.svg": "./static/media/Binance-Icon-Logo.wine.d5322ee6.svg",
+    "static/media/avalanche-avax-logo.png": "./static/media/avalanche-avax-logo.2565884a.png",
+    "static/media/file_upload.svg": "./static/media/file_upload.7df580b5.svg",
+    "static/media/file_upload_hero.svg": "./static/media/file_upload_hero.50ef9f2c.svg",
+    "static/media/logo.png": "./static/media/logo.2410baa7.png",
+    "static/media/metamask.svg": "./static/media/metamask.a0103549.svg",
+    "static/media/polygon-logo.svg": "./static/media/polygon-logo.9d390282.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43c7aded.js",
+    "static/css/2.a6a636a0.chunk.css",
+    "static/js/2.e4d88875.chunk.js",
+    "static/css/main.3effe839.chunk.css",
+    "static/js/main.6e3a2f16.chunk.js"
+  ]
+}
